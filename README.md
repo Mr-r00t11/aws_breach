@@ -2,7 +2,7 @@
 
 ## Description
 
-AWS Exploit Tool is an auditing and exploitation tool for AWS. This tool allows you to enumerate IAM users, IAM roles, and S3 buckets, verify permissions, assume roles, and more. It is designed to help security professionals assess the security configuration of their AWS accounts.
+aws_breach is an auditing and exploitation tool for AWS. This tool allows you to enumerate IAM users, IAM roles, and S3 buckets, verify permissions, assume roles, and more. It is designed to help security professionals assess the security configuration of their AWS accounts.
 
 ## Features
 
@@ -24,9 +24,9 @@ AWS Exploit Tool is an auditing and exploitation tool for AWS. This tool allows 
 1. Clone the repository:
   
 ```bash
-git clone https://github.com/your-username/aws-exploit-tool.git
+git clone https://github.com/Mr-r00t11/aws_breach.git
 
-cd aws-exploit-tool
+cd aws_breach
 ```
 
 2. Install the dependencies:
