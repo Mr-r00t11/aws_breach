@@ -40,7 +40,7 @@ cd aws_breach
 - `--secret_key`: AWS Secret Key (required)
 - `--region`: AWS Region (optional, will attempt to authenticate across multiple regions if not specified)
 
-![[Screenshot_1.png]]
+![[Screenshot_1.png]](https://raw.githubusercontent.com/Mr-r00t11/aws_breach/main/img/Screenshot_1.png)
 ### Examples
 
 #### Authenticate in a specific region
@@ -79,4 +79,4 @@ Verifies the permissions of the authenticated user for a list of specific action
 
 ## Example Output
 
-![[Screenshot_2.png]]
+![[Screenshot_2.png]](https://raw.githubusercontent.com/Mr-r00t11/aws_breach/main/img/Screenshot_2.png)
